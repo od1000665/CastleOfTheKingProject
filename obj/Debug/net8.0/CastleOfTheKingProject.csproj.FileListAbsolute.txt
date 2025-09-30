@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\bin\Debug\net8.0\CastleOfTheKingProject.exe
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\bin\Debug\net8.0\CastleOfTheKingProject.deps.json
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\bin\Debug\net8.0\CastleOfTheKingProject.runtimeconfig.json
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\bin\Debug\net8.0\CastleOfTheKingProject.dll
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\bin\Debug\net8.0\CastleOfTheKingProject.pdb
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.AssemblyInfo.cs
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.sourcelink.json
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.dll
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\refint\CastleOfTheKingProject.dll
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.pdb
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\CastleOfTheKingProject.genruntimeconfig.cache
+C:\Users\dougl\OneDrive - Ozarks Technical Community College\2025-Fall\CastleOfTheKingProject\obj\Debug\net8.0\ref\CastleOfTheKingProject.dll
